@@ -9,10 +9,10 @@ NOTE_NAMES = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
 
 # Each voice has a comfortable singing range (low, high) as MIDI numbers
 RANGES = {
-    "soprano": (60, 79),   # C4 – G5
-    "alto":    (55, 74),   # G3 – D5
-    "tenor":   (48, 67),   # C3 – G4
-    "bass":    (40, 60),   # E2 – C4
+    "soprano": (60, 79),   # C4 - G5
+    "alto":    (55, 74),   # G3 - D5
+    "tenor":   (48, 67),   # C3 - G4
+    "bass":    (40, 60),   # E2 - C4
 }
 
 # Semitone offsets of the major scale from the tonic
